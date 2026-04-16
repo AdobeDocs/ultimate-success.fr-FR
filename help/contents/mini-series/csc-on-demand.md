@@ -35,7 +35,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="Optimisation des chaînes d’approvisionnement de contenu" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="Optimisation des chaînes d’approvisionnement de contenu"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479088/?captions=fre_fr&format=jpeg&nocache=1773689372143" alt="Optimisation des chaînes d’approvisionnement de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -127,7 +127,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/general2026/csc-change-management" title="Session 5 de VRA - Stratégies de gestion des modifications pour exploiter votre Supply chain de contenu" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479816/?format=jpeg&nocache=1773689372162" alt="Session 5 de VRA - Stratégies de gestion des modifications pour exploiter votre Supply chain de contenu"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479819/?captions=fre_fr&format=jpeg&nocache=1773689372162" alt="Session 5 de VRA - Stratégies de gestion des modifications pour exploiter votre Supply chain de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
