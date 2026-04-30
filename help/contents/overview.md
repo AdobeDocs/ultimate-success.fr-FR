@@ -23,12 +23,12 @@ Explorez notre collection de webinaires à la demande conçus pour vous aider à
 {cta = Watch}
 
 * ../contents/2026/change-management-deep-dive.md
-* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices
-* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence
-* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds
-* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain
-* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem
-* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs
+* https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices
+* https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence
+* https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds
+* https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain
+* https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem
+* https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -60,7 +60,7 @@ Explorez notre collection de webinaires à la demande conçus pour vous aider à
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" title="Création de fichiers BRD-SDR pour Analytics et Customer Journey Analytics" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" title="Création de fichiers BRD-SDR pour Analytics et Customer Journey Analytics" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479598/?format=jpeg&nocache=1777587755654" alt="Création de fichiers BRD-SDR pour Analytics et Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -69,11 +69,11 @@ Explorez notre collection de webinaires à la demande conçus pour vous aider à
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" target="_blank" rel="referrer" title="Création de fichiers BRD-SDR pour Analytics et Customer Journey Analytics">Création de fichiers BRD-SDR pour Analytics et Customer Journey Analytics</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" target="_blank" rel="referrer" title="Création de fichiers BRD-SDR pour Analytics et Customer Journey Analytics">Création de fichiers BRD-SDR pour Analytics et Customer Journey Analytics</a>
                     </p>
                     <p class="is-size-6">Découvrez les bonnes pratiques pour créer des fichiers BRD-SDR dans Adobe Analytics et CJA, optimiser les performances et faciliter les migrations.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
@@ -83,7 +83,7 @@ Explorez notre collection de webinaires à la demande conçus pour vous aider à
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" title="Décalage D&apos;Intelligence Incorporé" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" title="Décalage D&apos;Intelligence Incorporé" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1777587755920" alt="Décalage D&apos;Intelligence Incorporé"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -92,11 +92,11 @@ Explorez notre collection de webinaires à la demande conçus pour vous aider à
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" target="_blank" rel="referrer" title="Décalage D&apos;Intelligence Incorporé">Intelligence Shift incorporée</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" target="_blank" rel="referrer" title="Décalage D&apos;Intelligence Incorporé">Intelligence Shift incorporée</a>
                     </p>
                     <p class="is-size-6">Découvrez comment Adobe Experience Cloud introduit l’intelligence d’assistance pour améliorer la prise de décision et accélérer les cycles insight en action.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
@@ -106,7 +106,7 @@ Explorez notre collection de webinaires à la demande conçus pour vous aider à
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" title="Création dans Edge Delivery Services" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" title="Création dans Edge Delivery Services" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479916/?format=jpeg&nocache=1777587755996" alt="Création dans Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -115,11 +115,11 @@ Explorez notre collection de webinaires à la demande conçus pour vous aider à
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" target="_blank" rel="referrer" title="Création dans Edge Delivery Services">Création dans Edge Delivery Services</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" target="_blank" rel="referrer" title="Création dans Edge Delivery Services">Création dans Edge Delivery Services</a>
                     </p>
                     <p class="is-size-6">Découvrez les stratégies de création dans Edge Delivery Services, en comparant la création basée sur des documents et l’éditeur universel avec AEM Sites.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
@@ -129,7 +129,7 @@ Explorez notre collection de webinaires à la demande conçus pour vous aider à
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="Optimisation des chaînes d’approvisionnement de contenu" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="Optimisation des chaînes d’approvisionnement de contenu" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1777587755744" alt="Optimisation des chaînes d’approvisionnement de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -138,11 +138,11 @@ Explorez notre collection de webinaires à la demande conçus pour vous aider à
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" target="_blank" rel="referrer" title="Optimisation des chaînes d’approvisionnement de contenu">Optimiser les chaînes d’approvisionnement de contenu</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" target="_blank" rel="referrer" title="Optimisation des chaînes d’approvisionnement de contenu">Optimiser les chaînes d’approvisionnement de contenu</a>
                     </p>
                     <p class="is-size-6">Découvrez comment optimiser les chaînes d’approvisionnement de contenu avec les solutions Adobe pour obtenir des résultats performants. Apprenez les modèles du secteur et mappez efficacement les objectifs.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
@@ -152,7 +152,7 @@ Explorez notre collection de webinaires à la demande conçus pour vous aider à
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" title="Modèles de diffusion modernes pour AEM Sites" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" title="Modèles de diffusion modernes pour AEM Sites" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478775/?format=jpeg&nocache=1777587755659" alt="Modèles de diffusion modernes pour AEM Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -161,11 +161,11 @@ Explorez notre collection de webinaires à la demande conçus pour vous aider à
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" target="_blank" rel="referrer" title="Modèles de diffusion modernes pour AEM Sites"> Modèles de diffusion modernes pour AEM Sites </a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" target="_blank" rel="referrer" title="Modèles de diffusion modernes pour AEM Sites"> Modèles de diffusion modernes pour AEM Sites </a>
                     </p>
                     <p class="is-size-6">Explorez des modèles de diffusion modernes pour AEM Sites afin d’assurer une diffusion de contenu évolutive et agile, ainsi que des expériences de création optimisées.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
@@ -175,7 +175,7 @@ Explorez notre collection de webinaires à la demande conçus pour vous aider à
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" title="Avantages stratégiques d’AEM Cloud Service" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" title="Avantages stratégiques d’AEM Cloud Service" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1777587755617" alt="Avantages stratégiques d’AEM Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -184,11 +184,11 @@ Explorez notre collection de webinaires à la demande conçus pour vous aider à
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" target="_blank" rel="referrer" title="Avantages stratégiques d’AEM Cloud Service">Avantages stratégiques d’AEM Cloud Service</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" target="_blank" rel="referrer" title="Avantages stratégiques d’AEM Cloud Service">Avantages stratégiques d’AEM Cloud Service</a>
                     </p>
                     <p class="is-size-6">Découvrez les avantages stratégiques et opérationnels d’Adobe AEM Cloud Service pour les fondations numériques modernes.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
