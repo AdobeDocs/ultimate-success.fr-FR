@@ -26,7 +26,7 @@ Rejoignez-nous pour une session de travail interactive sur la gestion des modifi
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486200/?learn=on&enablevpops)
 
-Cette session ne nécessite que peu ou pas de prétravail.  Vous pouvez également visionner l’enregistrement [Stratégies de gestion des changements](https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies) de la série [VRA](https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand), soutenir les équipes à n’importe quel niveau de maturité et veiller à ce que chaque participant reparte avec un plan de changement tangible d’une page directement aligné sur ses cas d’utilisation AJO.
+Cette session ne nécessite que peu ou pas de prétravail.  Vous pouvez également visionner l’enregistrement [Stratégies de gestion des changements](https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies) de la série [VRA](https://experienceleague.adobe.com/fr/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand), soutenir les équipes à n’importe quel niveau de maturité et veiller à ce que chaque participant reparte avec un plan de changement tangible d’une page directement aligné sur ses cas d’utilisation AJO.
 
 Cette session s’est concentrée sur les points suivants :
 
