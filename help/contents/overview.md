@@ -35,7 +35,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="Favoriser la valeur dans la Supply chain de contenu - Un framework structuré et une carte de performance de mesures" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1779390693086" alt="Favoriser la valeur dans la Supply chain de contenu - Un framework structuré et une carte de performance de mesures"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491237/?captions=fre_fr&format=jpeg&nocache=1779390693086" alt="Favoriser la valeur dans la Supply chain de contenu - Un framework structuré et une carte de performance de mesures"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -175,7 +175,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="Série sur la réalisation de valeurs de Supply chain de contenu" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="Série sur la réalisation de valeurs de Supply chain de contenu"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479088/?captions=fre_fr&format=jpeg&nocache=1773689372143" alt="Série sur la réalisation de valeurs de Supply chain de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

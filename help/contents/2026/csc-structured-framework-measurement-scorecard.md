@@ -19,4 +19,4 @@ ht-degree: 0%
 
 À mesure que la complexité du contenu augmente, de nombreuses entreprises ont du mal à démontrer clairement la valeur commerciale de leurs opérations de contenu. Ce webinaire présente une approche structurée et basée sur les résultats pour mesurer la valeur dans Content Supply chain, ce qui vous permet de définir des indicateurs de performance clés significatifs, de lier les investissements de contenu à l’impact commercial et d’établir une carte de performance de mesure prête à l’emploi pour la réalisation continue de la valeur
 
->[!VIDEO](https://video.tv.adobe.com/v/3491220/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491237/?captions=fre_fr&learn=on&enablevpops)
