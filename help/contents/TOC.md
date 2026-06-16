@@ -2,7 +2,8 @@
 user-guide-title: Bibliothèque de webinaires Ultimate Success
 breadcrumb-title: Bibliothèque de webinaires Ultimate Success
 user-guide-description: Accédez à notre bibliothèque de webinaires exclusive dirigée par des experts pour permettre aux clients Ultimate Success de maîtriser rapidement les bonnes pratiques stratégiques et techniques qui génèrent des résultats commerciaux mesurables.
-source-git-commit: 14b62ebfaa1f07e69ac4ab4d43ced15ce4061901
+nudge: true
+source-git-commit: b451f5edcc76c97b6b8c27bde91129a06840c8b5
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 1%
@@ -12,7 +13,7 @@ ht-degree: 1%
 
 # Bibliothèque de webinaires Ultimate Success {#ultimate-success-webinar-library}
 
-+ [Présentation](overview.md)
++ [Vue d’ensemble](overview.md)
 + [Webinaires](webinars.md)
 + Contenu de mini-série {#mini-series}
    + [CJA Value Realization Acceleration Series](mini-series/cja-on-demand.md)
@@ -24,11 +25,11 @@ ht-degree: 1%
    + {hide-from-toc}[Déverrouillage de la composition d’audiences fédérées](../contents/2026/unified-audiences.md)
    + {hide-from-toc}[Visibilité à l’ère de l’IA](../contents/2026/ai-visibility.md)
    + {hide-from-toc}[Éditeur universel et frameworks de rendu côté serveur modernes](../contents/2026/universal-editor-ssr-frameworks.md)
-   + {hide-from-toc}[Session De Publication De Produit &#x200B;](../contents/2026/ajo-product-release.md)
+   + {hide-from-toc}[Session De Publication De Produit ](../contents/2026/ajo-product-release.md)
    + {hide-from-toc}[Content Supply chain - Framework structuré et carte de performance des mesures](../contents/2026/csc-structured-framework-measurement-scorecard.md)
    + {hide-from-toc}[Adobe Data Insights Agent](../contents/2026/data-insights-agent-cja.md)
    + {hide-from-toc}[Optimisation d’AEM pour la géolocalisation](../contents/2026/optimize-aem-for-geo.md)
-   + {hide-from-toc}[Composants Partagés &#x200B;](../contents/2026/shared-components-cja.md)
+   + {hide-from-toc}[Composants Partagés ](../contents/2026/shared-components-cja.md)
    + {hide-from-toc}[Campagnes par e-mail](../contents/2026/email-campaigns.md)
    + {hide-from-toc}[Création d’une stratégie d’expérience client](../contents/2026/maximize-ajo-value.md)
    + {hide-from-toc}[Déverrouillage de la composition d’audiences fédérées](../contents/2026/unlock-federated-audience-composition.md)
