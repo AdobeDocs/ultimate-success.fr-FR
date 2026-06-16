@@ -2,7 +2,8 @@
 user-guide-title: Bibliothèque de webinaires Ultimate Success
 breadcrumb-title: Bibliothèque de webinaires Ultimate Success
 user-guide-description: Accédez à notre bibliothèque de webinaires exclusive dirigée par des experts pour permettre aux clients Ultimate Success de maîtriser rapidement les bonnes pratiques stratégiques et techniques qui génèrent des résultats commerciaux mesurables.
-source-git-commit: 14b62ebfaa1f07e69ac4ab4d43ced15ce4061901
+nudge: true
+source-git-commit: b451f5edcc76c97b6b8c27bde91129a06840c8b5
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 1%
@@ -12,7 +13,7 @@ ht-degree: 1%
 
 # Bibliothèque de webinaires Ultimate Success {#ultimate-success-webinar-library}
 
-+ [Présentation](overview.md)
++ [Vue d’ensemble](overview.md)
 + [Webinaires](webinars.md)
 + Contenu de mini-série {#mini-series}
    + [CJA Value Realization Acceleration Series](mini-series/cja-on-demand.md)
