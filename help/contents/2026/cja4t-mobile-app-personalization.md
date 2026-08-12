@@ -3,9 +3,7 @@ title: De l’expérience à Insight - CJA4T pour Mobile App Personalization
 description: Découvrez comment CJA4T connecte les expériences d’applications mobiles Adobe Target aux informations cross-canal, offrant ainsi une meilleure personnalisation et optimisation.
 product: Customer Journey Analytics
 role: User
-level:
-  - Beginner
-  - Intermediate
+level: Beginner, Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
@@ -13,7 +11,7 @@ jira: KT-22282
 duration: 2118
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: f61b659ca5d897e33ab5e3e7d8bd694e26cec3bc
+source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 2%
@@ -25,7 +23,7 @@ ht-degree: 2%
 
 Découvrez comment connecter les expériences d’applications mobiles Adobe Target aux actions en aval sur plusieurs canaux à l’aide de CJA4T. Cette session fournit des conseils sur la combinaison d’identités, l’architecture des données, la configuration des rapports et la prévention des pièges de configuration courants. Obtenez une vue plus complète de l’impact de la personnalisation et prenez de meilleures décisions d’optimisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496980/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496953/?learn=on&enablevpops)
 
 ## Ce que vous apprendrez
 

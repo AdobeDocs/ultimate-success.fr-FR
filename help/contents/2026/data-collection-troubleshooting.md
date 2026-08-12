@@ -2,12 +2,8 @@
 title: Dépannage de la collecte de données - Conseils, astuces et bonnes pratiques de gouvernance
 description: Découvrez des moyens efficaces de résoudre les problèmes liés à Adobe Analytics et à Web SDK à l’aide de techniques de gouvernance pour valider les données et résoudre les problèmes plus rapidement.
 product: Customer Journey Analytics
-role:
-  - Admin
-  - Developer
-level:
-  - Beginner
-  - Intermediate
+role: Admin, Developer
+level: Beginner, Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
@@ -15,7 +11,7 @@ jira: KT-22284
 duration: 3401
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: f61b659ca5d897e33ab5e3e7d8bd694e26cec3bc
+source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 2%

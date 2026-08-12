@@ -2,14 +2,8 @@
 title: Mise à l’échelle des agents Adobe - Journey Agent
 description: Découvrez comment Adobe Journey Agent associe des workflows d’IA à une supervision humaine pour optimiser la création et la gouvernance de parcours.
 product: Journey Optimizer
-role:
-  - Admin
-  - Leader
-  - User
-level:
-  - Beginner
-  - Intermediate
-  - Experienced
+role: Admin, Leader, User
+level: Beginner, Intermediate, Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
@@ -17,7 +11,7 @@ jira: KT-22286
 duration: 3337
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: f61b659ca5d897e33ab5e3e7d8bd694e26cec3bc
+source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 3%

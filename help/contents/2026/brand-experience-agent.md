@@ -2,13 +2,8 @@
 title: Mise À L’Échelle Des Agents Adobe - Brand Experience Agent
 description: Découvrez comment Adobe Brand Experience Agent peut rationaliser les workflows, accélérer la production de contenu et assurer la gouvernance pour une valeur commerciale évolutive.
 product: Workfront
-role:
-  - Admin
-  - Leader
-  - User
-level:
-  - Beginner
-  - Intermediate
+role: Admin, Leader, User
+level: Beginner, Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
@@ -16,7 +11,7 @@ jira: KT-22285
 duration: 1968
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: 99b08f72e37e492161091145b3ecd9ec5349f283
+source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 2%
@@ -28,7 +23,7 @@ ht-degree: 2%
 
 Découvrez comment Brand Experience Agent peut accélérer la production de contenu, la modernisation et le développement des sites tout en préservant la révision humaine et la gouvernance. Découvrez pourquoi la normalisation de workflows répétitifs et à forte valeur ajoutée est essentielle pour offrir une valeur commerciale évolutive.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496969/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496956/?learn=on&enablevpops)
 
 ## Ce que vous apprendrez
 
