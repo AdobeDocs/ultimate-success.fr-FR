@@ -28,7 +28,7 @@ ht-degree: 2%
 
 Découvrez comment Brand Experience Agent peut accélérer la production de contenu, la modernisation et le développement des sites tout en préservant la révision humaine et la gouvernance. Découvrez pourquoi la normalisation de workflows répétitifs et à forte valeur ajoutée est essentielle pour offrir une valeur commerciale évolutive.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496956/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496969/?captions=fre_fr&learn=on&enablevpops)
 
 ## Ce que vous apprendrez
 
