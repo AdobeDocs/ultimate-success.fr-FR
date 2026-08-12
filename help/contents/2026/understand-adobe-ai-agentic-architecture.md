@@ -23,7 +23,7 @@ ht-degree: 4%
 
 Cette session fournit un cadre détaillé pour aligner les fonctionnalités de l’IA d’Adobe sur vos objectifs commerciaux. Il se concentre sur l’optimisation de vos investissements Adobe et l’adoption de solutions évolutives avec une préparation et une gouvernance des données améliorées.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496952/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496960/?captions=fre_fr&learn=on&enablevpops)
 
 ## Ce que vous apprendrez
 
