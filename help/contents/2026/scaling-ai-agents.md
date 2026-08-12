@@ -2,8 +2,12 @@
 title: Mise à l’échelle des agents Adobe AI - Audience Agent et Data Insights Agent
 description: Découvrez comment Audience Agent et Data Insights Agent transforment l’utilisation ad hoc de l’IA en workflows répétables pour la segmentation, la gestion des audiences et l’analyse de campagnes.
 product: Customer Journey Analytics
-role: DeveloperUser
-level: BeginnerIntermediate
+role:
+  - Developer
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

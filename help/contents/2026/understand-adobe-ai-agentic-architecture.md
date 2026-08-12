@@ -2,8 +2,15 @@
 title: Comprendre l’IA d’Adobe et l’architecture agentique pour les besoins de l’entreprise
 description: Découvrez comment l’IA et l’architecture agentique d’Adobe s’alignent sur les résultats commerciaux, maximisent les investissements Adobe et permettent une adoption évolutive avec une gouvernance forte.
 product: Platform
-role: AdminDeveloperLeaderUser
-level: BeginnerIntermediateExperienced
+role:
+  - Admin
+  - Developer
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
+  - Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
