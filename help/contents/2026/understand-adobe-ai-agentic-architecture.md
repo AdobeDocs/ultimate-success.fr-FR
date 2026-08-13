@@ -1,7 +1,7 @@
 ---
 title: Comprendre l’IA d’Adobe et l’architecture agentique pour les besoins de l’entreprise
 description: Découvrez comment l’IA et l’architecture agentique d’Adobe s’alignent sur les résultats commerciaux, maximisent les investissements Adobe et permettent une adoption évolutive avec une gouvernance forte.
-product: Platform
+solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22281
 duration: 1821
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 4%
@@ -23,7 +23,7 @@ ht-degree: 4%
 
 Cette session fournit un cadre détaillé pour aligner les fonctionnalités de l’IA d’Adobe sur vos objectifs commerciaux. Il se concentre sur l’optimisation de vos investissements Adobe et l’adoption de solutions évolutives avec une préparation et une gouvernance des données améliorées.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496960/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496952/?learn=on&enablevpops)
 
 ## Ce que vous apprendrez
 
