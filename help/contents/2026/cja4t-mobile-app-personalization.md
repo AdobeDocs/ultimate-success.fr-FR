@@ -23,7 +23,7 @@ ht-degree: 2%
 
 Découvrez comment connecter les expériences d’applications mobiles Adobe Target aux actions en aval sur plusieurs canaux à l’aide de CJA4T. Cette session fournit des conseils sur la combinaison d’identités, l’architecture des données, la configuration des rapports et la prévention des pièges de configuration courants. Obtenez une vue plus complète de l’impact de la personnalisation et prenez de meilleures décisions d’optimisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496953/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496980/?captions=fre_fr&learn=on&enablevpops)
 
 ## Ce que vous apprendrez
 
