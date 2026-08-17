@@ -2,8 +2,13 @@
 title: Amélioration des informations cross-canal avec l’assemblage Adobe Customer Journey Analytics
 description: Découvrez comment l’assemblage Adobe CJA déverrouille l’analyse cross-canal au niveau de la personne, améliorant les rapports, l’attribution et la création d’audiences.
 product: Journey Optimizer
-role: AdminDeveloperUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Developer
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-17T00:00:00Z
