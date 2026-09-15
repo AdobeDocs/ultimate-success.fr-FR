@@ -23,7 +23,7 @@ ht-degree: 4%
 
 Découvrez comment Workfront Planning résout les problèmes de visibilité fragmentée, de déconnexion des stratégies et de l’exécution, ainsi que de surcharge liée aux rapports manuels dans la planification marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502959/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502972/?captions=fre_fr&learn=on&enablevpops)
 
 ## Points essentiels à retenir
 

@@ -23,7 +23,7 @@ ht-degree: 2%
 
 Découvrez l’approche recommandée d’Adobe en matière de gestion des prospects et comment le marketing et les ventes peuvent fonctionner dans un cadre partagé pour la qualification, le suivi et la mesure.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502954/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502992/?captions=fre_fr&learn=on&enablevpops)
 
 ## Vue d’ensemble
 
