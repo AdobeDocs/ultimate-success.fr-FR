@@ -19,7 +19,7 @@ source-wordcount: '132'
 ht-degree: 0%
 ---
 
->[!VIDEO](https://video.tv.adobe.com/v/3503926/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503930/?captions=fre_fr&learn=on&enablevpops)
 
 # Du brouillon à la livraison : combler l&#39;écart entre la révision et l&#39;approbation des travaux en cours
 
