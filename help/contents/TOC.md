@@ -3,9 +3,9 @@ user-guide-title: Bibliothèque de webinaires Ultimate Success
 breadcrumb-title: Bibliothèque de webinaires Ultimate Success
 user-guide-description: Accédez à notre bibliothèque de webinaires exclusive dirigée par des experts pour permettre aux clients Ultimate Success de maîtriser rapidement les bonnes pratiques stratégiques et techniques qui génèrent des résultats commerciaux mesurables.
 nudge: true
-source-git-commit: b8c15a9c7151c54bf619d0e977bf59e59e16463c
+source-git-commit: 2efd51569b09ed63e50d0c21d7279c296c6d866a
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '256'
 ht-degree: 0%
 ---
 
@@ -56,3 +56,5 @@ ht-degree: 0%
   + {hide-from-toc}[Planification stratégique pour le succès des CXO](../contents/2026/strategic-planning-cxo-success.md)
   + {hide-from-toc}[Compétences de l’agent &#x200B;](../contents/2026/ai-assisted-development.md)
   + {hide-from-toc}[Balisé, Régi, Activé](../contents/2026/metadata-backbone-content-at-scale.md)
+  + {hide-from-toc}[Débloquer l’avenir de la croissance B2B](../contents/2026/future-b2b-growth.md)
+  + {hide-from-toc}[Combler l&#39;écart entre la révision et l&#39;approbation des travaux en cours](../contents/2026/wip-review-approval-gap.md)
