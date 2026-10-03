@@ -3,17 +3,19 @@ user-guide-title: Bibliothèque de webinaires Ultimate Success
 breadcrumb-title: Bibliothèque de webinaires Ultimate Success
 user-guide-description: Accédez à notre bibliothèque de webinaires exclusive dirigée par des experts pour permettre aux clients Ultimate Success de maîtriser rapidement les bonnes pratiques stratégiques et techniques qui génèrent des résultats commerciaux mesurables.
 nudge: true
-source-git-commit: 2efd51569b09ed63e50d0c21d7279c296c6d866a
+source-git-commit: 96be43835a9dd67a3fc538e11ba72ed4963f584b
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '264'
 ht-degree: 0%
 ---
 
 # Bibliothèque de webinaires Ultimate Success {#ultimate-success-webinar-library}
 
 + [Vue d’ensemble](overview.md)
++ {hide-from-toc}[Aperçu AI](overview-ai.md)
 + [Webinaires](webinars.md)
 + Contenu de mini-série {#mini-series}
+  + {hide-from-toc}[AI Essentials](mini-series/ai-essentials.md)
   + [CJA Value Realization Acceleration Series](mini-series/cja-on-demand.md)
   + [Série sur l’accélération de la réalisation de valeurs AJO](mini-series/ajo-on-demand.md)
   + [Série sur la réalisation de valeurs CSC](mini-series/csc-on-demand.md)
@@ -58,3 +60,4 @@ ht-degree: 0%
   + {hide-from-toc}[Balisé, Régi, Activé](../contents/2026/metadata-backbone-content-at-scale.md)
   + {hide-from-toc}[Débloquer l’avenir de la croissance B2B](../contents/2026/future-b2b-growth.md)
   + {hide-from-toc}[Combler l&#39;écart entre la révision et l&#39;approbation des travaux en cours](../contents/2026/wip-review-approval-gap.md)
+  + {hide-from-toc}[Création pour l’échelle de l’IA](../contents/2026/building-for-ai-scale.md)
