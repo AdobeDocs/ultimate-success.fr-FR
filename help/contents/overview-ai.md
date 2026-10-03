@@ -2,21 +2,15 @@
 title: Bibliothèque de webinaires Ultimate Success
 description: Accédez à notre bibliothèque de webinaires exclusive dirigée par des experts pour permettre aux clients Ultimate Success de maîtriser rapidement les bonnes pratiques stratégiques et techniques qui génèrent des résultats commerciaux mesurables.
 hide: true
-source-git-commit: 3084af6480f8fddcd65d45701ecc4c05c35787a4
+source-git-commit: 574e2ed4b4b12f069dd194562b1a3f376ec56697
 workflow-type: tm+mt
-source-wordcount: '984'
-ht-degree: 14%
+source-wordcount: '884'
+ht-degree: 15%
 ---
 
 # Bibliothèque de webinaires Ultimate Success
 
 Accédez à notre bibliothèque complète de webinaires animés par des experts et conçus pour accélérer votre maîtrise des bonnes pratiques stratégiques et techniques élaborées exclusivement pour nos clients Ultimate Success. Des concepts de base aux stratégies d’implémentation avancées, ces webinaires présentent tout ce dont vous avez besoin pour obtenir des résultats commerciaux mesurables.
-
-## Adobe AI Essentials
-
-Bacon ipsum dolor amet ventre de porc picanha shank, biltong jambon pain de viande polony longe de porc doner landjaeger. Dinde côtes de rechange filet mignon pancetta rond leberkas épaule pilon jerky boule de porc bout. Côtes courtes frankfurter chuck jarret jarret de jambon tri-tip, filet mignon queue de vache moulu rond boudin baguette en bois. Capicola jowl côtes courtes, épaule frankfurter côtes de rechange longe de porc croupe de dinde boudin salami moulu rond. Mandrin de jabot landjaeger prosciutto porchetta turducken chislic chuck. Dindons de bœuf, landjaeger courtes côtes courtes de longe pancetta côtes de rechange corned beef porchetta polony kevin jowl porc chop.
-
-[Afficher tous les webinaires](./webinars.md)
 
 ## Webinaires
 
@@ -39,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="Favoriser la valeur dans la Supply chain de contenu - Un framework structuré et une carte de performance de mesures" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491237/?captions=fre_fr&format=jpeg&nocache=1790984045136" alt="Favoriser la valeur dans la Supply chain de contenu - Un framework structuré et une carte de performance de mesures"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1790984045136" alt="Favoriser la valeur dans la Supply chain de contenu - Un framework structuré et une carte de performance de mesures"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -203,7 +197,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="Série sur la réalisation de valeurs de Supply chain de contenu" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479088/?captions=fre_fr&format=jpeg&nocache=1773689372143" alt="Série sur la réalisation de valeurs de Supply chain de contenu"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="Série sur la réalisation de valeurs de Supply chain de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
