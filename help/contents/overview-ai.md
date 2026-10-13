@@ -2,9 +2,9 @@
 title: Bibliothèque de webinaires Ultimate Success
 description: Accédez à notre bibliothèque de webinaires exclusive dirigée par des experts pour permettre aux clients Ultimate Success de maîtriser rapidement les bonnes pratiques stratégiques et techniques qui génèrent des résultats commerciaux mesurables.
 hide: true
-source-git-commit: 574e2ed4b4b12f069dd194562b1a3f376ec56697
+source-git-commit: 991fae76e22b430abcaa45094697d560f864a1fd
 workflow-type: tm+mt
-source-wordcount: '884'
+source-wordcount: '871'
 ht-degree: 15%
 ---
 
@@ -33,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="Favoriser la valeur dans la Supply chain de contenu - Un framework structuré et une carte de performance de mesures" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491237/?captions=fre_fr&format=jpeg&nocache=1790984045136" alt="Favoriser la valeur dans la Supply chain de contenu - Un framework structuré et une carte de performance de mesures"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491237/?captions=fre_fr&format=jpeg&nocache=1791844681479" alt="Favoriser la valeur dans la Supply chain de contenu - Un framework structuré et une carte de performance de mesures"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -56,7 +56,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/universal-editor-ssr-frameworks.md" title="Sites rapides et modifiables avec éditeur universel et frameworks de rendu côté serveur modernes" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1790984045109" alt="Sites rapides et modifiables avec éditeur universel et frameworks de rendu côté serveur modernes"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1791844681450" alt="Sites rapides et modifiables avec éditeur universel et frameworks de rendu côté serveur modernes"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -79,7 +79,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ajo-product-release.md" title="Session de mise à jour des produits AJO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1790984045124" alt="Session de mise à jour des produits AJO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1791844681438" alt="Session de mise à jour des produits AJO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -128,7 +128,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/ai-essentials.md" title="AI Essentials" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1790984011805" alt="AI Essentials"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1791840290135" alt="AI Essentials"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -138,7 +138,7 @@ CARDS  ****
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" title="AI Essentials">AI Essentials</a>
                     </p>
-                    <p class="is-size-6">Bacon ipsum dolor amet ventre de porc picanha shank, biltong jambon pain de viande polony longe de porc doner landjaeger. feuilles de route des cas d’utilisation, architecture, modèles opérationnels et préparation de l’entreprise pour accélérer le délai de rentabilisation et optimiser l’adoption d’AJO.</p>
+                    <p class="is-size-6">Découvrez Adobe AI avec des sessions à la demande couvrant les concepts de base et les fonctionnalités d’IA pratiques sur les produits d’orchestration de l’expérience client d’Adobe.</p>
                 </div>
                 <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Afficher la série</span>
