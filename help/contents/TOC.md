@@ -3,19 +3,18 @@ user-guide-title: Bibliothèque de webinaires Ultimate Success
 breadcrumb-title: Bibliothèque de webinaires Ultimate Success
 user-guide-description: Accédez à notre bibliothèque de webinaires exclusive dirigée par des experts pour permettre aux clients Ultimate Success de maîtriser rapidement les bonnes pratiques stratégiques et techniques qui génèrent des résultats commerciaux mesurables.
 nudge: true
-source-git-commit: bd094928525c06637c81d58284eeb81959797c7f
+source-git-commit: b450770a372822b53b61ea0cca69230996e8c4a4
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '266'
 ht-degree: 0%
 ---
 
 # Bibliothèque de webinaires Ultimate Success {#ultimate-success-webinar-library}
 
-+ [Vue d’ensemble](overview.md)
-+ {hide-from-toc}[Aperçu AI](overview-ai.md)
++ [Présentation](overview.md)
 + [Webinaires](webinars.md)
 + Contenu de mini-série {#mini-series}
-  + {hide-from-toc}[AI Essentials](mini-series/ai-essentials.md)
+  + [AI Essentials](mini-series/ai-essentials.md)
   + [CJA Value Realization Acceleration Series](mini-series/cja-on-demand.md)
   + [Série sur l’accélération de la réalisation de valeurs AJO](mini-series/ajo-on-demand.md)
   + [Série sur la réalisation de valeurs CSC](mini-series/csc-on-demand.md)

@@ -1,14 +1,12 @@
 ---
 title: Bibliothèque de webinaires Ultimate Success
-description: Accédez à notre bibliothèque de webinaires exclusive dirigée par des experts pour permettre aux clients Ultimate Success de maîtriser rapidement les bonnes pratiques stratégiques et techniques qui génèrent des résultats commerciaux mesurables.
+description: Explorez notre bibliothèque de webinaires exclusive, dirigée par des experts, pour permettre aux clients Ultimate Success de maîtriser rapidement les bonnes pratiques stratégiques et techniques qui offrent des résultats commerciaux mesurables.
 hide: true
-source-git-commit: 7bf89129c8771ffb9bb37634158c81b3d7a5385b
+source-git-commit: f87dd016a0c5520673ce05360b50e30501371823
 workflow-type: tm+mt
-source-wordcount: '530'
-ht-degree: 0%
-
+source-wordcount: '842'
+ht-degree: 16%
 ---
-
 
 # Bibliothèque de webinaires Ultimate Success
 
@@ -35,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="Favoriser la valeur dans la Supply chain de contenu - Un framework structuré et une carte de performance de mesures" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491237/?captions=fre_fr&format=jpeg&nocache=1779390693086" alt="Favoriser la valeur dans la Supply chain de contenu - Un framework structuré et une carte de performance de mesures"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491237/?captions=fre_fr&format=jpeg&nocache=1791917786805" alt="Favoriser la valeur dans la Supply chain de contenu - Un framework structuré et une carte de performance de mesures"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -58,7 +56,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/universal-editor-ssr-frameworks.md" title="Sites rapides et modifiables avec éditeur universel et frameworks de rendu côté serveur modernes" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1779390693103" alt="Sites rapides et modifiables avec éditeur universel et frameworks de rendu côté serveur modernes"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1791917786824" alt="Sites rapides et modifiables avec éditeur universel et frameworks de rendu côté serveur modernes"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -81,7 +79,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ajo-product-release.md" title="Session de mise à jour des produits AJO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1779390693095" alt="Session de mise à jour des produits AJO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1791917786843" alt="Session de mise à jour des produits AJO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -108,15 +106,14 @@ CARDS  ****
 
 ## Contenu de mini-série
 
-Explorez les enregistrements OnDemand de la série Adobe Value Realization, conçus pour aider les entreprises à transformer les investissements Adobe en impact commercial mesurable.
-
-Chaque session ciblée met en évidence un pilier essentiel du cadre de réalisation de valeur, offrant des conseils pratiques et des artefacts éprouvés pour soutenir la planification stratégique, accélérer le délai de rentabilisation et générer des résultats significatifs. Parcourez les séries spécifiques aux produits et aux secteurs pour découvrir comment les équipes activent la stratégie, alignent les parties prenantes et passent de l’adoption à l’impact.
+Explorez notre ensemble organisé de contenu de mini-séries à la demande, chaque webinaire s’appuyant sur un seul sujet. Vous pouvez ainsi apprendre chaque session individuellement ou regarder la série complète pour une compréhension complète de bout en bout.
 
 <!-- 
 CARDS  ****
 
   {cta  = View series}
   
+* mini-series/ai-essentials.md
 * mini-series/cja-on-demand.md
 * mini-series/ajo-on-demand.md
 * mini-series/csc-on-demand.md
@@ -124,6 +121,29 @@ CARDS  ****
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AI Essentials">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="mini-series/ai-essentials.md" title="AI Essentials" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1791840290135" alt="AI Essentials"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" title="AI Essentials">AI Essentials</a>
+                    </p>
+                    <p class="is-size-6">Découvrez Adobe AI avec des sessions à la demande couvrant les concepts de base et les fonctionnalités d’IA pratiques sur les produits d’orchestration de l’expérience client d’Adobe.</p>
+                </div>
+                <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Afficher la série</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="CJA Value Realization Acceleration Series">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
