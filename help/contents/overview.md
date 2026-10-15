@@ -2,7 +2,7 @@
 title: Bibliothèque de webinaires Ultimate Success
 description: Explorez notre bibliothèque de webinaires exclusive, dirigée par des experts, pour permettre aux clients Ultimate Success de maîtriser rapidement les bonnes pratiques stratégiques et techniques qui offrent des résultats commerciaux mesurables.
 hide: true
-source-git-commit: f87dd016a0c5520673ce05360b50e30501371823
+source-git-commit: 3e0476c188642f2642d7d67b0c27e08a26895f10
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 16%
@@ -14,7 +14,7 @@ Accédez à notre bibliothèque complète de webinaires animés par des experts 
 
 ## Webinaires
 
-Explorez notre collection de webinaires à la demande conçus pour vous aider à optimiser la valeur des solutions Adobe Experience Platform (AEP). Conçue pour les clients Ultimate, chaque session fournit des conseils pratiques, des stratégies éprouvées et des exemples concrets pour vous aider à prendre des décisions plus intelligentes et à obtenir des résultats plus probants, selon votre calendrier.
+Explorez notre collection de webinaires à la demande conçus pour vous aider à optimiser la valeur des solutions Adobe Experience Platform (AEP). Conçue pour les clients Ultimate, chaque session fournit des conseils pratiques, des stratégies éprouvées et des exemples concrets pour vous aider à prendre des décisions plus intelligentes et à obtenir des résultats plus solides selon votre calendrier.
 
 <!-- 
 CARDS  ****
