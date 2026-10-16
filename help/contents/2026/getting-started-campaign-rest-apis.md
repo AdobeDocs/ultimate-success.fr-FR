@@ -19,7 +19,7 @@ source-wordcount: '365'
 ht-degree: 1%
 ---
 
->[!VIDEO](https://video.tv.adobe.com/v/3504653/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504656/?captions=fre_fr&learn=on&enablevpops)
 
 # Démarrer rapidement votre intégration : prise en main des API REST Campaign
 
