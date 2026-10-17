@@ -3,9 +3,9 @@ user-guide-title: Bibliothèque de webinaires Ultimate Success
 breadcrumb-title: Bibliothèque de webinaires Ultimate Success
 user-guide-description: Accédez à notre bibliothèque de webinaires exclusive dirigée par des experts pour permettre aux clients Ultimate Success de maîtriser rapidement les bonnes pratiques stratégiques et techniques qui génèrent des résultats commerciaux mesurables.
 nudge: true
-source-git-commit: d2ccb7d2777d016909412f05889e7d49feffec05
+source-git-commit: 56718dcbe1a6ff4f61d73218925bdc33c43a8348
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '272'
 ht-degree: 0%
 ---
 
@@ -61,4 +61,5 @@ ht-degree: 0%
   + {hide-from-toc}[Combler l&#39;écart entre la révision et l&#39;approbation des travaux en cours](../contents/2026/wip-review-approval-gap.md)
   + {hide-from-toc}[Création pour l’échelle de l’IA](../contents/2026/building-for-ai-scale.md)
   + {hide-from-toc}[Expériences AJO Basées Sur Le Code](../contents/2026/strategies-for-smarter-personalization.md)
+  + {hide-from-toc}[Prise en main des API REST de Campaign](../contents/2026/getting-started-campaign-rest-apis.md)
 
