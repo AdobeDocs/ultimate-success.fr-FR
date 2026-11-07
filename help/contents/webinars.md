@@ -3920,7 +3920,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/events/adobe-customer-success-webinar-recordings/2024/workfront-mastery" title="Maîtrise de Workfront - Stratégies pour réussir" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1793232251287" alt="Maîtrise de Workfront - Stratégies pour réussir"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3505041/?captions=fre_fr&format=jpeg&nocache=1793232251287" alt="Maîtrise de Workfront - Stratégies pour réussir"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
