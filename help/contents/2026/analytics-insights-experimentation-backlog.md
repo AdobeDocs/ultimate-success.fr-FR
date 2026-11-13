@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Les équipes d’expérience digitale ont souvent accès à des données d’analyse riches, mais n’ont pas de chemin clair entre insight et l’action. Cette session explique comment explorer systématiquement les points de friction entre Adobe Analytics et Customer Journey Analytics, les transformer en hypothèses testables prioritaires et les intégrer à Adobe Target et Journey Optimizer pour une optimisation continue.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508245/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508268/?captions=fre_fr&learn=on&enablevpops)
 
 ## Ce Que Vous Apprendrez
 
