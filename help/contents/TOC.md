@@ -3,9 +3,9 @@ user-guide-title: Bibliothèque de webinaires Ultimate Success
 breadcrumb-title: Bibliothèque de webinaires Ultimate Success
 user-guide-description: Accédez à notre bibliothèque de webinaires exclusive dirigée par des experts pour permettre aux clients Ultimate Success de maîtriser rapidement les bonnes pratiques stratégiques et techniques qui génèrent des résultats commerciaux mesurables.
 nudge: true
-source-git-commit: 843c0f101b5420824f55281fb39999dfac013aab
+source-git-commit: 188e08d27f491403f2f1597e85b3f23863f71659
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '318'
 ht-degree: 0%
 ---
 
@@ -67,4 +67,8 @@ ht-degree: 0%
   + {hide-from-toc}[Relier les investissements des agences d’IA à l’impact commercial](../contents/2026/ai-agentic-investments-to-business-impact.md)
   + {hide-from-toc}[Adoption durable de l’IA](../contents/2026/sustainable-ai-adoption.md)
   + {hide-from-toc}[Marketo AI Toolkit](../contents/2026/marketo-ai-toolkit.md)
+  + {hide-from-toc}[Dépannage d’AJO](../contents/2026/ajo-troubleshooting.md)
+  + {hide-from-toc}[Coworker Adobe - Votre coéquipier IA](../contents/2026/coworker-ai-teammate.md)
+  + {hide-from-toc}[Transformation des informations Analytics en liste d’attente d’expériences](../contents/2026/analytics-insights-experimentation-backlog.md)
+  + {hide-from-toc}[Agents Adobe AI en pratique](../contents/2026/adobe-ai-agents-in-practice.md)
 
